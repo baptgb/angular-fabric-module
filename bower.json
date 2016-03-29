@@ -1,0 +1,26 @@
+{
+  "name": "angular-fabric-module",
+  "main": "angular-fabric-module.js",
+  "homepage": "https://github.com/alchm/angular-fabric-module",
+  "authors": [
+    "alchm baptiste.gouby@gmail.com"
+  ],
+  "description": "Inject fabric.js inside you own Angular modules",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "fabric",
+    "fabric.js",
+    "module"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
